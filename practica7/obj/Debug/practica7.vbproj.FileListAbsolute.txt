@@ -1,0 +1,11 @@
+c:\users\usuario\documents\visual studio 2013\Projects\practica7\practica7\bin\Debug\practica7.exe.config
+C:\Users\Usuario\documents\visual studio 2013\Projects\practica7\practica7\bin\Debug\practica7.exe
+C:\Users\Usuario\documents\visual studio 2013\Projects\practica7\practica7\bin\Debug\practica7.pdb
+C:\Users\Usuario\documents\visual studio 2013\Projects\practica7\practica7\bin\Debug\practica7.xml
+C:\Users\Usuario\documents\visual studio 2013\Projects\practica7\practica7\obj\Debug\practica7.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\documents\visual studio 2013\Projects\practica7\practica7\obj\Debug\practica7.Form1.resources
+C:\Users\Usuario\documents\visual studio 2013\Projects\practica7\practica7\obj\Debug\practica7.Resources.resources
+C:\Users\Usuario\documents\visual studio 2013\Projects\practica7\practica7\obj\Debug\practica7.vbproj.GenerateResource.Cache
+C:\Users\Usuario\documents\visual studio 2013\Projects\practica7\practica7\obj\Debug\practica7.exe
+C:\Users\Usuario\documents\visual studio 2013\Projects\practica7\practica7\obj\Debug\practica7.xml
+C:\Users\Usuario\documents\visual studio 2013\Projects\practica7\practica7\obj\Debug\practica7.pdb
